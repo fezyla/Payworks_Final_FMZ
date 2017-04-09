@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEST2</string>
+    <string name="pay">PAY</string>
+    <string name="refund_done">REFUND DONE !</string>
+</resources>
